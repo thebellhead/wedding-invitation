@@ -1,4 +1,4 @@
-import React, { useState, Suspense } from "react";
+import { useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Intro from "./components/Intro/Intro.tsx";
 import Location from "./components/Location/Location.tsx";

@@ -1,4 +1,3 @@
-import React from "react";
 import colorsMaleImage from "../../assets/colors-male.svg";
 import colorsFemaleImage from "../../assets/colors-female.svg";
 import SimpleCarousel from "../SimpleCarousel/SimpleCarousel";

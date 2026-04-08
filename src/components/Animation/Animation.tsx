@@ -1,4 +1,3 @@
-import React from "react";
 import animationImage from "../../assets/bkg_animation_heavy.gif";
 // import animationImage from "../../assets/bkg_animation.gif";
 import cloudImage from "../../assets/cloud.png";
