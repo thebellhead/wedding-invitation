@@ -31,11 +31,12 @@ const ids: Record<string, nameEntry> = {
   sveta: { name: "Светлана", sex: 1 },
   arina: { name: "Арина", sex: 1 },
   lina: { name: "Ангелина", sex: 1 },
+  vera: { name: "Вера", sex: 1 },
 
   vitaly_irina: { name: "Виталий и Ирина", sex: 2 },
   vladimir_lida: { name: "Владимир и Лидия", sex: 2 },
   lesha_yulya: { name: "Алексей, Юлия и Даниил", sex: 2 },
-  hope_and_faith: { name: "Надежда и Вера", sex: 2 },
+  viktor_nadezhda: { name: "Виктор и Надежда", sex: 2 },
   tanya_elina: { name: "Татьяна и Элина", sex: 2 },
   vitya_natasha: { name: "Виктор и Наталья", sex: 2 },
   lera_olesya: { name: "Валерия и Олеся", sex: 2 },
