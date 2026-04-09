@@ -13,7 +13,7 @@ function App() {
   const [loaded, setLoaded] = useState(false);
   setTimeout(() => {
     setLoaded(true);
-  }, 5);
+  }, 3000);
 
   return (
     <BrowserRouter>
@@ -26,7 +26,9 @@ function App() {
               <div
                 id="main-container"
                 onLoad={() => {
-                  setLoaded(true);
+                  setTimeout(() => {
+                    setLoaded(true);
+                  }, 1000);
                 }}
               >
                 <Intro />
